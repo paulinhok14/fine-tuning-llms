@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Checkpoint files from Moldel Training
+models/**/checkpoint*/
+
 # C extensions
 *.so
 
