@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Paulo/Documents/repos/fine-tuning-llms/src/mlruns/0/e0555f2f75834491b27e850294b381d8/artifacts
+end_time: 1750811267440
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e0555f2f75834491b27e850294b381d8
+run_name: ../models/TinyLlama-1.1b-Chat-FineTuned-v1.0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750810556547
+status: 3
+tags: []
+user_id: Paulo
