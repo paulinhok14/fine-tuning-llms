@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Paulo/Documents/repos/fine-tuning-llms/src/mlruns/0/95b677a1b69e4da4b76fd02744df4f07/artifacts
+end_time: 1750733369221
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 95b677a1b69e4da4b76fd02744df4f07
+run_name: capable-auk-759
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750732572244
+status: 4
+tags: []
+user_id: Paulo
