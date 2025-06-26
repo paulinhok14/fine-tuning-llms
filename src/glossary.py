@@ -32,6 +32,7 @@ glossary = [
     ("AIPC", "Aircraft Illustrated Parts Catalog. A manual that illustrates all aircraft parts."),
     ("EEC", "Embraer Executive Care. Warranty extension program for business jets."),
     ("EPEP", "Embraer Parts Exchange Program. A parts replacement service based on return/exchange model."),
+    ("APU", "Auxiliar Power Unit. Auxiliary engine installed on the aircraft that provides electrical power and air conditioning."),
 
     # Lean, Six Sigma and Quality
     ("DMAIC", "Define, Measure, Analyze, Improve, Control. A Six Sigma framework for problem-solving."),

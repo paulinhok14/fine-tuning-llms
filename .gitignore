@@ -6,10 +6,6 @@ __pycache__/
 # MLFlow runs
 src/mlruns/
 
-# Checkpoint files from Moldel Training
-models/**/checkpoint*/
-#
-
 # C extensions
 *.so
 
