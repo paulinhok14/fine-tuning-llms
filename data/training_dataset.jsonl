@@ -1,4 +1,105 @@
-{"prompt": "Qual a capital do Brasil?", "response": "Brasília."}
-{"prompt": "Quem descobriu o Brasil?", "response": "Pedro Álvares Cabral."}
-{"prompt": "O que é aprendizado supervisionado?", "response": "É um tipo de aprendizado de máquina com dados rotulados."}
-{"prompt": "Explique o que é regressão linear.", "response": "É uma técnica estatística usada para prever valores contínuos."}
+{"prompt": "What does 'STA' mean in the Embraer context?", "response": "Satellite Warehouse. A secondary, often regional, inventory depot."}
+{"prompt": "What does 'Lead Time' mean in the Embraer context?", "response": "The time it takes to procure, receive, and stock a part."}
+{"prompt": "What does 'OSS' mean in the Embraer context?", "response": "On Site Stock. Embraer-owned inventory stored at service centers or customer locations."}
+{"prompt": "What does 'CTQ' mean in the Embraer context?", "response": "Critical To Quality. Defines key product or process characteristics that must be met."}
+{"prompt": "What does 'IW51' mean in the Embraer context?", "response": "Create a service notification."}
+{"prompt": "What does 'MM03' mean in the Embraer context?", "response": "Display material master data."}
+{"prompt": "What does 'ANAC' mean in the Embraer context?", "response": "Agência Nacional de Aviação Civil. Brazil's civil aviation authority."}
+{"prompt": "What does 'PN' mean in the Embraer context?", "response": "Part Number. A unique identifier assigned to a specific aircraft part."}
+{"prompt": "What does 'ME21N' mean in the Embraer context?", "response": "Create a purchase order."}
+{"prompt": "What does 'OSS' mean in the Embraer context?", "response": "On Site Stock. Embraer-owned inventory stored at service centers or customer locations."}
+{"prompt": "What does 'GUT Matrix' mean in the Embraer context?", "response": "Gravity, Urgency, Tendency. A method used to prioritize problem resolution."}
+{"prompt": "What does 'AIPC' mean in the Embraer context?", "response": "Aircraft Illustrated Parts Catalog. A manual that illustrates all aircraft parts."}
+{"prompt": "What does 'EOQ' mean in the Embraer context?", "response": "Economic Order Quantity. The ideal stock quantity to minimize order and holding costs."}
+{"prompt": "What does 'CTQ' mean in the Embraer context?", "response": "Critical To Quality. Defines key product or process characteristics that must be met."}
+{"prompt": "What does 'ME21N' mean in the Embraer context?", "response": "Create a purchase order."}
+{"prompt": "What does 'POi' mean in the Embraer context?", "response": "Purchase Order Intercompany. An internal transfer order between Embraer sites."}
+{"prompt": "What does 'BER' mean in the Embraer context?", "response": "Beyond Economical Repair. Indicates when a part is not worth repairing."}
+{"prompt": "What does '5S' mean in the Embraer context?", "response": "A lean tool to organize and standardize the workplace for efficiency and safety."}
+{"prompt": "What does 'DC' mean in the Embraer context?", "response": "Distribution Center. A central warehouse used to store and dispatch parts."}
+{"prompt": "What does 'SLG1' mean in the Embraer context?", "response": "Application log for interface issues."}
+{"prompt": "What does 'Pareto Principle' mean in the Embraer context?", "response": "80% of effects come from 20% of causes, useful for prioritization in planning."}
+{"prompt": "What does 'SAP' mean in the Embraer context?", "response": "An ERP system used by Embraer to manage inventory, planning, procurement, and logistics."}
+{"prompt": "What does 'Executive Aviation' mean in the Embraer context?", "response": "Refers to Embraer's business jets like Phenom 100, Phenom 300, Legacy 450, and Lineage 1000."}
+{"prompt": "What does 'DMAIC' mean in the Embraer context?", "response": "Define, Measure, Analyze, Improve, Control. A Six Sigma framework for problem-solving."}
+{"prompt": "What does 'POi' mean in the Embraer context?", "response": "Purchase Order Intercompany. An internal transfer order between Embraer sites."}
+{"prompt": "What does 'IQ03' mean in the Embraer context?", "response": "Display material serial number."}
+{"prompt": "What does 'STA' mean in the Embraer context?", "response": "Satellite Warehouse. A secondary, often regional, inventory depot."}
+{"prompt": "What does 'EASA' mean in the Embraer context?", "response": "European Union Aviation Safety Agency. Regulates aviation safety in Europe."}
+{"prompt": "What does 'VK13' mean in the Embraer context?", "response": "Display pricing conditions."}
+{"prompt": "What does 'Executive Aviation' mean in the Embraer context?", "response": "Refers to Embraer's business jets like Phenom 100, Phenom 300, Legacy 450, and Lineage 1000."}
+{"prompt": "What does 'Military Aviation' mean in the Embraer context?", "response": "Includes aircraft like the KC-390, Super Tucano, and ISR platforms."}
+{"prompt": "What does 'DMAIC' mean in the Embraer context?", "response": "Define, Measure, Analyze, Improve, Control. A Six Sigma framework for problem-solving."}
+{"prompt": "What does 'AHEAD' mean in the Embraer context?", "response": "Aircraft Health Analysis and Diagnosis. Monitors aircraft health and provides predictive maintenance."}
+{"prompt": "What does 'RCCA' mean in the Embraer context?", "response": "Root Cause Corrective Action. Methodology to investigate and eliminate root causes of issues."}
+{"prompt": "What does '5S' mean in the Embraer context?", "response": "A lean tool to organize and standardize the workplace for efficiency and safety."}
+{"prompt": "What does 'PN' mean in the Embraer context?", "response": "Part Number. A unique identifier assigned to a specific aircraft part."}
+{"prompt": "What does 'EEC' mean in the Embraer context?", "response": "Embraer Executive Care. Warranty extension program for business jets."}
+{"prompt": "What does 'STA' mean in the Embraer context?", "response": "Satellite Warehouse. A secondary, often regional, inventory depot."}
+{"prompt": "What does 'DC' mean in the Embraer context?", "response": "Distribution Center. A central warehouse used to store and dispatch parts."}
+{"prompt": "What does 'Commercial Aviation' mean in the Embraer context?", "response": "Covers Embraer's E-Jet family including E170, E175, E190, E195, and their E2 variants."}
+{"prompt": "What does 'VL03N' mean in the Embraer context?", "response": "Display delivery document."}
+{"prompt": "What does 'CTQ' mean in the Embraer context?", "response": "Critical To Quality. Defines key product or process characteristics that must be met."}
+{"prompt": "What does 'POi' mean in the Embraer context?", "response": "Purchase Order Intercompany. An internal transfer order between Embraer sites."}
+{"prompt": "What does 'IW51' mean in the Embraer context?", "response": "Create a service notification."}
+{"prompt": "What does 'EOQ' mean in the Embraer context?", "response": "Economic Order Quantity. The ideal stock quantity to minimize order and holding costs."}
+{"prompt": "What does 'MRP' mean in the Embraer context?", "response": "Material Requirements Planning. A production planning, scheduling, and inventory control system."}
+{"prompt": "What does 'DC' mean in the Embraer context?", "response": "Distribution Center. A central warehouse used to store and dispatch parts."}
+{"prompt": "What does 'KPI' mean in the Embraer context?", "response": "Key Performance Indicator. A metric used to evaluate critical business performance."}
+{"prompt": "What does 'ATP' mean in the Embraer context?", "response": "Available to Promise. Represents available stock minus overdue orders, used to inform customer commitments."}
+{"prompt": "What does 'Pareto Principle' mean in the Embraer context?", "response": "80% of effects come from 20% of causes, useful for prioritization in planning."}
+{"prompt": "What does 'STA' mean in the Embraer context?", "response": "Satellite Warehouse. A secondary, often regional, inventory depot."}
+{"prompt": "What does 'IW52' mean in the Embraer context?", "response": "Modify a service notification."}
+{"prompt": "What does 'ZDPRNT006' mean in the Embraer context?", "response": "Lists optional and alternative parts for engineering orders."}
+{"prompt": "What does 'STA' mean in the Embraer context?", "response": "Satellite Warehouse. A secondary, often regional, inventory depot."}
+{"prompt": "What does 'AIPC' mean in the Embraer context?", "response": "Aircraft Illustrated Parts Catalog. A manual that illustrates all aircraft parts."}
+{"prompt": "What does 'RCCA' mean in the Embraer context?", "response": "Root Cause Corrective Action. Methodology to investigate and eliminate root causes of issues."}
+{"prompt": "What does 'KPI' mean in the Embraer context?", "response": "Key Performance Indicator. A metric used to evaluate critical business performance."}
+{"prompt": "What does 'EOQ' mean in the Embraer context?", "response": "Economic Order Quantity. The ideal stock quantity to minimize order and holding costs."}
+{"prompt": "What does 'MD04' mean in the Embraer context?", "response": "Displays stock/requirement list for a material."}
+{"prompt": "What does 'Pareto Principle' mean in the Embraer context?", "response": "80% of effects come from 20% of causes, useful for prioritization in planning."}
+{"prompt": "What does 'Intellicus' mean in the Embraer context?", "response": "A reporting tool used at Embraer to extract and analyze operational data."}
+{"prompt": "What does 'ME51N' mean in the Embraer context?", "response": "Create a purchase requisition."}
+{"prompt": "What does 'AIPC' mean in the Embraer context?", "response": "Aircraft Illustrated Parts Catalog. A manual that illustrates all aircraft parts."}
+{"prompt": "What does 'IW52' mean in the Embraer context?", "response": "Modify a service notification."}
+{"prompt": "What does 'Military Aviation' mean in the Embraer context?", "response": "Includes aircraft like the KC-390, Super Tucano, and ISR platforms."}
+{"prompt": "What does 'IQ03' mean in the Embraer context?", "response": "Display material serial number."}
+{"prompt": "What does 'MM03' mean in the Embraer context?", "response": "Display material master data."}
+{"prompt": "What does '5S' mean in the Embraer context?", "response": "A lean tool to organize and standardize the workplace for efficiency and safety."}
+{"prompt": "What does 'PN' mean in the Embraer context?", "response": "Part Number. A unique identifier assigned to a specific aircraft part."}
+{"prompt": "What does 'DMAIC' mean in the Embraer context?", "response": "Define, Measure, Analyze, Improve, Control. A Six Sigma framework for problem-solving."}
+{"prompt": "What does 'TAT' mean in the Embraer context?", "response": "Turn Around Time. Time taken for a part to be shipped, repaired, and returned to inventory."}
+{"prompt": "What does 'ME21N' mean in the Embraer context?", "response": "Create a purchase order."}
+{"prompt": "What does 'Pareto Principle' mean in the Embraer context?", "response": "80% of effects come from 20% of causes, useful for prioritization in planning."}
+{"prompt": "What does 'Pareto Principle' mean in the Embraer context?", "response": "80% of effects come from 20% of causes, useful for prioritization in planning."}
+{"prompt": "What does 'MD04' mean in the Embraer context?", "response": "Displays stock/requirement list for a material."}
+{"prompt": "What does 'ZDPRNT006' mean in the Embraer context?", "response": "Lists optional and alternative parts for engineering orders."}
+{"prompt": "What does 'STA' mean in the Embraer context?", "response": "Satellite Warehouse. A secondary, often regional, inventory depot."}
+{"prompt": "What does 'SAP' mean in the Embraer context?", "response": "An ERP system used by Embraer to manage inventory, planning, procurement, and logistics."}
+{"prompt": "What does 'AWB' mean in the Embraer context?", "response": "Air Waybill. A document for tracking air cargo shipments."}
+{"prompt": "What does 'OV' mean in the Embraer context?", "response": "Customer Order. A sales order placed by the client."}
+{"prompt": "What does 'Pareto Principle' mean in the Embraer context?", "response": "80% of effects come from 20% of causes, useful for prioritization in planning."}
+{"prompt": "What does 'IW52' mean in the Embraer context?", "response": "Modify a service notification."}
+{"prompt": "What does '5S' mean in the Embraer context?", "response": "A lean tool to organize and standardize the workplace for efficiency and safety."}
+{"prompt": "What does 'EEC' mean in the Embraer context?", "response": "Embraer Executive Care. Warranty extension program for business jets."}
+{"prompt": "What does 'EOQ' mean in the Embraer context?", "response": "Economic Order Quantity. The ideal stock quantity to minimize order and holding costs."}
+{"prompt": "What does 'OV' mean in the Embraer context?", "response": "Customer Order. A sales order placed by the client."}
+{"prompt": "What does '5S' mean in the Embraer context?", "response": "A lean tool to organize and standardize the workplace for efficiency and safety."}
+{"prompt": "What does 'Intellicus' mean in the Embraer context?", "response": "A reporting tool used at Embraer to extract and analyze operational data."}
+{"prompt": "What does 'VK13' mean in the Embraer context?", "response": "Display pricing conditions."}
+{"prompt": "What does 'DC' mean in the Embraer context?", "response": "Distribution Center. A central warehouse used to store and dispatch parts."}
+{"prompt": "What does 'ME51N' mean in the Embraer context?", "response": "Create a purchase requisition."}
+{"prompt": "What does 'KPI' mean in the Embraer context?", "response": "Key Performance Indicator. A metric used to evaluate critical business performance."}
+{"prompt": "What does 'RC' mean in the Embraer context?", "response": "Purchase Requisition. A document to request purchasing a material."}
+{"prompt": "What does 'PO' mean in the Embraer context?", "response": "Purchase Order. An external customer order created in SAP."}
+{"prompt": "What does 'TAT' mean in the Embraer context?", "response": "Turn Around Time. Time taken for a part to be shipped, repaired, and returned to inventory."}
+{"prompt": "What does 'EASA' mean in the Embraer context?", "response": "European Union Aviation Safety Agency. Regulates aviation safety in Europe."}
+{"prompt": "What does 'BER' mean in the Embraer context?", "response": "Beyond Economical Repair. Indicates when a part is not worth repairing."}
+{"prompt": "What does '5S' mean in the Embraer context?", "response": "A lean tool to organize and standardize the workplace for efficiency and safety."}
+{"prompt": "What does 'Military Aviation' mean in the Embraer context?", "response": "Includes aircraft like the KC-390, Super Tucano, and ISR platforms."}
+{"prompt": "What does 'EOQ' mean in the Embraer context?", "response": "Economic Order Quantity. The ideal stock quantity to minimize order and holding costs."}
+{"prompt": "What does ATP mean and why is it important in materials planning?", "response": "ATP stands for 'Available to Promise'. It represents physical stock minus overdue orders, essential for delivery planning."}
+{"prompt": "What's the difference between PO and POi in Embraer's SAP system?", "response": "PO is an external Purchase Order from a customer, while POi is an internal order for transfers between Embraer sites."}
+{"prompt": "How does the AHEAD system support aircraft maintenance?", "response": "AHEAD monitors the aircraft’s health and detects failures mid-flight, enabling proactive maintenance."}
+{"prompt": "What is EEC at Embraer?", "response": "EEC stands for Embraer Executive Care, a warranty extension program for executive jets."}
+{"prompt": "How is the Pareto Principle applied in Embraer's planning process?", "response": "According to Pareto, 80% of effects stem from 20% of causes, guiding prioritization of material and service planning."}
