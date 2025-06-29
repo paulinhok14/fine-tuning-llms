@@ -1,4 +1,4 @@
-# glossary.py
+# Train Questions
 
 glossary = [
     # Aviation segments
