@@ -3,8 +3,12 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-# MLFlow runs
+# MLFlow runs and models checkpoints
 src/mlruns/
+models/**/checkpoint*
+notebooks/mlruns/
+models/**/*.safetensors
+
 
 # C extensions
 *.so
