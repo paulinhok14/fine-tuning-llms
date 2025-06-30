@@ -6,6 +6,7 @@
 
 <img src="imgs/finetuning.png" alt="Finetuning illustration" width="650"/>
 
+<small>*Source: [Neo4j Blog - Fine-tuning vs RAG](https://neo4j.com/blog/developer/fine-tuning-vs-rag/)*</small>
 
 ## 🎬 What is this Project?
 
@@ -39,6 +40,8 @@ Fine-tuning involves **modifying the model's internal parameters** to learn new 
 RAG keeps the base model unchanged and **retrieves relevant information from external sources** during inference:
 
 <img src="imgs/rag.png" alt="RAG" width="650"/>
+
+<small>*Source: [Neo4j Blog - Fine-tuning vs RAG](https://neo4j.com/blog/developer/fine-tuning-vs-rag/)*</small>
 
 - **📖 External Knowledge**: Uses vector databases to retrieve relevant documents
 - **🔄 No Model Changes**: Base model remains unchanged
