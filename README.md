@@ -20,7 +20,6 @@ You'll learn how to:
 - Generate domain-specific training data from glossaries
 - Deploy fine-tuned models with Docker
 
----
 
 ## 🔄 RAG vs Fine-Tuning: Understanding the Difference
 
@@ -65,8 +64,6 @@ RAG keeps the base model unchanged and **retrieves relevant information from ext
 
 This project focuses on **fine-tuning** as it's particularly effective for creating specialized models that can understand and respond to specific domains, formats, or styles while maintaining the efficiency and accessibility needed for consumer hardware.
 
----
-
 ## 🚀 Key Features
 
 - **Quantized Model Loading**: Run LLMs in 8-bit or 4-bit mode to fit on low-VRAM GPUs
@@ -79,7 +76,6 @@ This project focuses on **fine-tuning** as it's particularly effective for creat
 - **Docker Support**: Containerized deployment for consistent environments
 - **Model Merging**: Automatically merge LoRA adapters with base model for deployment
 
----
 
 ## 🛠️ Technologies Used
 
@@ -97,7 +93,6 @@ This project focuses on **fine-tuning** as it's particularly effective for creat
 | 🔧 Environment         | [python-dotenv 1.1.0](https://pypi.org/project/python-dotenv/)             |
 | 🖥️ Hardware Support    | NVIDIA GPUs (tested on GTX 1050 4GB VRAM)                                 |
 
----
 
 ## 📂 Project Structure
 
@@ -127,7 +122,6 @@ fine-tuning-llms/
 └── 📄 .gitignore                       # Git ignore rules
 ```
 
----
 
 ## 🏁 How to Run
 
@@ -167,8 +161,6 @@ fine-tuning-llms/
    docker run -it --gpus all -v $(pwd):/app fine-tuning-llms
    ```
 
----
-
 ## 📝 Workflow Overview
 
 1. **Setup & Environment Checks**: Ensures compatible versions and available GPU/CPU resources
@@ -181,7 +173,6 @@ fine-tuning-llms/
 8. **Model Merging**: Merges LoRA adapters with the base model for deployment
 9. **Saving**: Exports the fine-tuned model for later use
 
----
 
 ## 🎯 Domain-Specific Training
 
@@ -195,7 +186,6 @@ This project includes a specialized training data generation system for **aviati
 
 The training data is automatically generated from a comprehensive glossary, ensuring consistent and accurate domain knowledge.
 
----
 
 ## 💡 Tips & Troubleshooting
 
@@ -214,8 +204,6 @@ The training data is automatically generated from a comprehensive glossary, ensu
 - **CUDA Issues:** Verify NVIDIA drivers and CUDA installation
 - **Memory Management:** Use gradient checkpointing and proper garbage collection
 
----
-
 ## 📈 Example: Training Data Format
 
 The project generates training data in JSONL format:
@@ -231,7 +219,6 @@ The project generates training data in JSONL format:
 - **Format**: JSONL with prompt/response structure
 - **Source**: Automated generation from domain glossary
 
----
 
 ## 🚀 Model Performance
 
