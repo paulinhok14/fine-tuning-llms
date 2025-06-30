@@ -116,7 +116,8 @@ fine-tuning-llms/
 │   └── TinyLlama-1.1b-Chat-FineTuned-v1.0-merged/ # Final merged model for deployment
 │
 ├── 📁 imgs/
-│   └── finetuning.png                  # RAG vs Fine-tuning comparison image
+│   ├── finetuning.png                  # Fine-tuning visualization
+│   └── rag.png                         # RAG architecture visualization
 │
 ├── 📄 requirements.txt                 # All dependencies with specific versions
 ├── 🐳 Dockerfile                       # Container configuration
