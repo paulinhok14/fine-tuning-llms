@@ -2,8 +2,6 @@
 ### **Efficient Large Language Model Adaptation on Consumer GPUs (NVIDIA GTX 1050 4GB VRAM)**
 ### 🎯 Fine-tune LLMs with HuggingFace, PEFT, LoRA/QLoRA, and BitsAndBytes
 
----
-
 <img src="imgs/finetuning.png" alt="Finetuning illustration" width="650"/>
 
 <small>*Source: [Neo4j Blog - Fine-tuning vs RAG](https://neo4j.com/blog/developer/fine-tuning-vs-rag/)*</small>
